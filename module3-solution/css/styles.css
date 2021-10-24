@@ -1,0 +1,50 @@
+
+/** HEADER NAVBAR **/
+#header-nav {
+  background-color: #f6b319;
+  border-radius: 0;
+  border: 0;
+  padding-bottom: 50px;
+}
+
+.navbar-brand {
+  padding-top: 10px;
+}
+.navbar-header button.navbar-toggle, .navbar-header .icon-bar {
+  border: 1px solid black;
+  background: #DCDCDC
+}
+
+
+h1{
+	color: gray;
+}
+
+
+h2{
+	text-align: center;
+}
+
+ #main-content{
+ 	background: gray;
+ 	color: black;
+ 	margin: auto auto auto auto;
+ 
+ }
+
+
+/********** Large devices only **********/
+@media (min-width: 1200px) {
+
+}
+
+/********** Medium devices only **********/
+@media (min-width: 992px) and (max-width: 1199px) {
+
+}
+
+/********** Small devices only **********/
+@media (min-width: 768px) and (max-width: 991px) {
+
+}
+
