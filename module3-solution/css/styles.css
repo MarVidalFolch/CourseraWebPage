@@ -1,19 +1,11 @@
 
 /** HEADER NAVBAR **/
-#header-nav {
-  background-color: #f6b319;
-  border-radius: 0;
-  border: 0;
-  padding-bottom: 50px;
+#nav{
+	background-color: blue !important;
+	border:2px solid black;
+
 }
 
-.navbar-brand {
-  padding-top: 10px;
-}
-.navbar-header button.navbar-toggle, .navbar-header .icon-bar {
-  border: 1px solid black;
-  background: #DCDCDC
-}
 
 
 h1{
